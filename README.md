@@ -115,4 +115,4 @@ Add the following value in the "JDB URL" field and click connect.
     jdbc:h2:mem:test
 
 
-[Doc]([documentation.md](https://github.com/NHernandezH/technical-test-for-Aplazo.github.io/blob/3636680e020d13563db5d5ab3e8f72e8b3d32f7a/documentation.md)https://github.com/NHernandezH/technical-test-for-Aplazo.github.io/blob/3636680e020d13563db5d5ab3e8f72e8b3d32f7a/documentation.md)
+[Doc](https://github.com/NHernandezH/technical-test-for-Aplazo.github.io/blob/3636680e020d13563db5d5ab3e8f72e8b3d32f7a/documentation.md)
